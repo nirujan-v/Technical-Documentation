@@ -1,0 +1,100 @@
+<nav id = "navbar"> 
+  <header>
+    Toolbar
+    </header>
+    <a class = "nav-link"href="#introduction">introduction</a>
+  
+    <a class = "nav-link"href="#Basics">Basics</a>
+  
+    <a class = "nav-link" href="#C++">C++</a>
+  
+    <a class = "nav-link" href="#Application">Application</a>
+  
+    <a class = "nav-link"href="#Learn_More">Learn More</a>
+</nav>   
+<main id = "main-doc"> 
+     <section class = "main-section" id = "introduction">
+       <header>
+         Introduction
+       </header>
+       <p>
+         Welcome to the technical documentation of programming with C++
+       </p>
+       <p>
+         This documentation will take you through the basics as well as provide you some resources for your coding journey
+       </p>
+       
+     </section>
+     <section class = "main-section" id = "Basics">
+       <header>
+         Basics
+       </header>
+       <p>
+         First you need to have an IDE setup. This is where you type and debug your code. Recommended IDE's include MS VisualStudio and Atom
+       </p>
+       <p>
+         Once you have your IDE setup look up the syntax of C++
+       </p>
+       
+     </section>
+     <section class = "main-section" id = "C++">
+       <header>
+         C++
+       </header>
+       <p>
+         C++ is one of the most popular programming languages in use today. It is one of the most basic and oldest and it is useful to have under your belt for coding projects
+       </p>
+       <p>
+         C++ is an extension of the language C. C++ has the added functionality of classes and object oriented programming.
+       </p>
+       <code> 
+         cout << "Hello World"
+       </code>
+       <code> 
+         cout << "Hello World"
+       </code>
+       <code> 
+         cout << "Hello World"
+       </code>
+       <code> 
+         cout << "Hello World"
+       </code>
+       <code> 
+         cout << "Hello World"
+       </code>
+     </section>
+     <section class = "main-section" id = "Application">
+       <header>
+         Application
+       </header>
+       <p>
+         C++ is used in many applications that you have probably heard of, some of these include amazon, microsoft office and mozilla firefox
+       </p>
+       <p>
+         C++ can be used for operating systems, browsers, libraries, and graphics.
+       </p>
+       <ul>
+         <li>Amazon</li>
+         <li>Firefox</li>
+         <li>Windows</li>
+         <li>Mac OS</li>
+         <li>Linux</li>
+       </ul>
+     </section>
+     <section class = "main-section" id = "Learn_More">
+       <header>
+         Learn More
+       </header>
+       <p>
+         There are many online resource you can refer to develop your c++ skills
+       </p>
+       <p>
+         Check out this website that teaches you c++ basics <a href = "https://www.learncpp.com/">here</a>
+       </p>
+       
+     </section>
+     
+     
+     
+     
+     <main>
